@@ -65,22 +65,8 @@ The **mingw-w64-install.exe** online installer is a minimal application that dow
 
 ![mingw-w64-install.exe](mingw-w64-install.png)
 
-Formatted as:
-
-```
-8.1.0|x86_64|posix|sjlj |rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/sjlj/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0.7z
-8.1.0|i686  |posix|sjlj |rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/threads-posix/sjlj/i686-8.1.0-release-posix-sjlj-rt_v6-rev0.7z
-8.1.0|i686  |posix|dwarf|rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/threads-posix/dwarf/i686-8.1.0-release-posix-dwarf-rt_v6-rev0.7z
-8.1.0|x86_64|posix|seh  |rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/seh/x86_64-8.1.0-release-posix-seh-rt_v6-rev0.7z
-8.1.0|i686  |win32|sjlj |rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/threads-win32/sjlj/i686-8.1.0-release-win32-sjlj-rt_v6-rev0.7z
-8.1.0|x86_64|win32|sjlj |rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/sjlj/x86_64-8.1.0-release-win32-sjlj-rt_v6-rev0.7z
-8.1.0|x86_64|win32|seh  |rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-win32/seh/x86_64-8.1.0-release-win32-seh-rt_v6-rev0.7z
-8.1.0|i686  |win32|dwarf|rev0 |http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/8.1.0/threads-win32/dwarf/i686-8.1.0-release-win32-dwarf-rt_v6-rev0.7z
-```
 
 The installer downloads the appropriate 7-Zip MinGW file and extracts the content to **C:\wingw-w64** or **C:\Program Files (x86)\mingw-w64**. The **<mingw-w64>\mingw64\bin** is then registered with **PATH** environment.
-
-
 
 
 # Fundamentals-of-C-programming
