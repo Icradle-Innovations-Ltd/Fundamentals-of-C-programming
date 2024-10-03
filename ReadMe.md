@@ -1,3 +1,18 @@
+# Fundamentals-of-C-programming
+ Learning C from Lecture One programs
+
+
+## Getting Started with C Programming in VSCode
+
+This repository contains programs for learning the fundamentals of C programming.
+
+### Prerequisites
+
+1. Install Visual Studio Code (VSCode)
+2. Install MinGW (Minimalist GNU for Windows)
+3. Set up the PATH environment variable for MinGW
+
+
 # mingw-w64
 MinGW-W64 GCC-8.1.0 Mirror
 
@@ -67,21 +82,6 @@ The **mingw-w64-install.exe** online installer is a minimal application that dow
 
 
 The installer downloads the appropriate 7-Zip MinGW file and extracts the content to **C:\wingw-w64** or **C:\Program Files (x86)\mingw-w64**. The **<mingw-w64>\mingw64\bin** is then registered with **PATH** environment.
-
-
-# Fundamentals-of-C-programming
- Learning C from Lecture One programs
-
-
-## Getting Started with C Programming in VSCode
-
-This repository contains programs for learning the fundamentals of C programming.
-
-### Prerequisites
-
-1. Install Visual Studio Code (VSCode)
-2. Install MinGW (Minimalist GNU for Windows)
-3. Set up the PATH environment variable for MinGW
 
 ### Compiling and Running C Programs
 
